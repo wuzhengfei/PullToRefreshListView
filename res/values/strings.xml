@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MyPullRefreshActivity!</string>
+    <string name="app_name">MyPullRefresh</string>
+    <string name="pull_to_refresh">下拉可以刷新</string>
+    <!-- 占位符的规定简述如下：其使用%[index]$[type]格式进行标记，
+	    index标记替换资源中第index个资源对应的位置，
+	    type则标示所要替换的资源的类型（s表示资源为字符串格式）。
+	-->
+    <string name="last_update_time">上次更新于: %1$s</string>
+    <string name="release_to_refresh">松开可以刷新</string>
+    <string name="refreshing">刷新中.....</string>
+    <string name="more">更多</string>
+    
+</resources>
